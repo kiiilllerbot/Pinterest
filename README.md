@@ -34,6 +34,7 @@ A simple Pinterest Flavour Brewed With Ruby on Rails.
 
 # Instructions to run in your Local Machine:
 *(1) Clone the Repo.
+
 *(2) Install all the dependencies. Run
 ```
 bundle install
